@@ -20,7 +20,8 @@ In server-side there is two session bean one of them Stateful and the other Stat
 Building
 --------------
 You must edit RemoteClient.java and jboss-ejb-client.properties You must change [username] and [password] to your username and password of the server. The default username is [jboss], password is [123456].
-You must also configure jboss with mysql. To achive this, you should follow the link;
+You must also configure jboss with mysql.  
+To achive this, you should follow the link;  
 https://developer.jboss.org/wiki/DataSourceConfigurationInAS7?_sscc=t 
 
 Here is my SQL query which I use in the project.
